@@ -1,0 +1,7 @@
+sphinx
+sphinxcontrib-youtube
+ipython
+ipykernel
+myst-nb
+jupyter-sphinx
+sphinx-book-theme
